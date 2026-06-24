@@ -16,11 +16,10 @@ Use this for different speakers, dates, times, and topics by replacing `{{placeh
 
 | Placeholder | What it is | Example |
 |---|---|---|
-| `{{SERIES_NAME}}` | Community or event series name | X-CITED Digital CoP |
+| `{{SERIES_NAME}}` | Community or event series name | X-CITED Digital Community |
 | `{{TOPIC_TITLE}}` | Webinar/session title | Effectively Communicating with Data |
 | `{{SPEAKER_NAME}}` | Speaker full name | Dan Isaac |
 | `{{SHORT_INTRO}}` | 1–2 sentence summary of what attendees will learn | Explore why audience and narrative shape effective data communication |
-| `{{EVIDENCE_OR_APPROACH}}` | Methods, evidence base, or perspective | evidence and theory from data visualisation and psychology |
 | `{{SESSION_LENGTH}}` | Main talk duration | 30-minute talk |
 | `{{SESSION_FORMAT}}` | Full session format | Talk followed by open discussion and coffee |
 | `{{DISCUSSION_POINTS}}` | Bulleted list of likely discussion themes | day-to-day data visualisation challenges |
@@ -41,9 +40,6 @@ Use this for different speakers, dates, times, and topics by replacing `{{placeh
 We’re excited to welcome **{{SPEAKER_NAME}}** for a session on **{{TOPIC_TITLE}}**.
 
 {{SHORT_INTRO}}.
-
-Drawing on {{EVIDENCE_OR_APPROACH}}, this session will explore practical ways to communicate ideas clearly and effectively.
-[OPTIONAL: Add 1–2 sentences with topic-specific examples, common pitfalls, or key principles attendees should expect.]
 
 ---
 
