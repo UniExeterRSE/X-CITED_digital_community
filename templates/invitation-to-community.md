@@ -1,3 +1,5 @@
+# Subject: Working at the intersection of research and tech? Join us across GW4
+
 We're reaching out to invite you to join X-CITED's Digital Community of Practice — a GW4 initiative connecting Research Technical Professionals (RTPs) across Bath, Bristol, Cardiff and Exeter.
  
 If your work supports research and digital technology touches any part of what you do, this community is for you. That includes RSEs, data scientists, research software developers, HPC and infrastructure engineers, data managers and stewards, digital humanities specialists, research IT officers, bioinformaticians, lab technicians/managers managing digital equipment, postdocs with a strong computational focus, programme and delivery managers in research — and anyone else who sits at the intersection of digital technology and research, whatever their job title.
