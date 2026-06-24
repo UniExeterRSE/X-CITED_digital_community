@@ -19,8 +19,6 @@ Use this for different speakers, dates, times, and topics by replacing `{{placeh
 | `{{TOPIC_TITLE}}` | Webinar/session title | Effectively Communicating with Data |
 | `{{SPEAKER_NAME}}` | Speaker full name | Dan Isaac |
 | `{{SHORT_INTRO}}` | 1–2 sentence summary of what attendees will learn | Explore why audience and narrative shape effective data communication |
-| `{{SESSION_LENGTH}}` | Main talk duration | 30-minute talk |
-| `{{DISCUSSION_POINTS}}` | Bulleted list of likely discussion themes | day-to-day data visualisation challenges |
 | `{{DATE}}` | Event date | Thursday 14 November 2026 |
 | `{{TIME}}` | Event time and timezone | 13:00–14:00 (UK time) |
 
