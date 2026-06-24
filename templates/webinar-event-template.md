@@ -23,8 +23,6 @@ Use this for different speakers, dates, times, and topics by replacing `{{placeh
 | `{{DISCUSSION_POINTS}}` | Bulleted list of likely discussion themes | day-to-day data visualisation challenges |
 | `{{DATE}}` | Event date | Thursday 14 November 2026 |
 | `{{TIME}}` | Event time and timezone | 13:00–14:00 (UK time) |
-| `{{CTA}}` | Registration/join action | Register here |
-| `{{OUTPUT_PURPOSE}}` | Why collaborative output matters | capture insights and grow the X-CITED knowledge base |
 
 ---
 
