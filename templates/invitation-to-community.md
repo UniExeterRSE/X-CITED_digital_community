@@ -13,6 +13,7 @@ An online community for digital RTPs across GW4 come together to share knowledge
 Each meeting follows a simple format:
  
   → A practitioner talk on a relevant digital topic
+  
   → Group discussion — what does this mean for your work?
  
 Topics are chosen by the community. Recent sessions have covered cybersecurity in the age of generative AI, and upcoming priorities (voted by members) include machine learning, HPC, UI/UX design, accessibility, FAIR data, and AI ethics.
@@ -28,8 +29,11 @@ We're also building interest-based sub-channels covering areas like #immersive-t
 Our community told us what they want most:
  
   ★ Better communication across institutions (4.6/5)
+  
   ★ Knowledge sharing (4.3/5)
+  
   ★ Networking with peers (4.2/5)
+  
   
  
 Whether you want to share your expertise, learn from others, find collaborators, or simply know what your counterparts at other GW4 universities are working on — there's a place for you here.
