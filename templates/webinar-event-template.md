@@ -29,7 +29,7 @@ Use this for different speakers, dates, times, and topics by replacing `{{placeh
 | `{{LOCATION_OR_LINK}}` | Venue or online link details | Online (Teams link shared on registration) |
 | `{{CTA}}` | Registration/join action | Register here |
 | `{{REGISTRATION_LINK}}` | URL for registration or joining | https://example.com/register |
-| `{{SPEED_BLOG_LINK}}` | Link to speed-blogging guidance | https://www.software.ac.uk/guide/speed-blogging-and-tips-writing-speed-blog-post |
+| `{{SPEED_BLOG_LINK}}` | Link to speed blogging guidance | https://www.software.ac.uk/guide/speed-blogging-and-tips-writing-speed-blog-post |
 | `{{OUTPUT_PURPOSE}}` | Why collaborative output matters | capture insights and grow the X-CITED knowledge base |
 
 ---
