@@ -40,10 +40,10 @@ Use this checklist for each meeting cycle. Copy it and track progress in the [pl
   - Add the speaker and planning team members as **presenters / tech support**.
 - [ ] Publish and share the webinar registration link.
 - [ ] **Advertise the event across GW4:**
-  - [ ] Post in relevant GW4 channels and networks. *(TODO: add specific channels/lists here)*
+  - [ ] Post in relevant GW4 channels and networks. *(add specific channels/lists here as the community grows)*
   - [ ] Send the event details to **Nicola** to forward to the X-CITED mailing list.
   - [ ] Post in the X-CITED Digital Community Teams channel.
-  - [ ] *(TODO: add any other advertising venues here)*
+  - [ ] *(add any further advertising venues here)*
 
 ### 1 week before the meeting
 
