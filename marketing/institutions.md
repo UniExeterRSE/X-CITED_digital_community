@@ -89,10 +89,6 @@ Each institution section contains two tables:
 | Facility Name | Contact Name | Email Address | Website |
 |---|---|---|---|
 | ISCA (Supercomputer) | TBC | TBC | <https://www.exeter.ac.uk/research/facilities/hpc/> |
-| Living Systems Institute (LSI) | TBC | TBC | <https://www.exeter.ac.uk/research/institutes/lsi/> |
-| XR and Immersive Technologies (V-SIM / Virtual Simulation) | TBC | TBC | TBC |
-| Wellcome Centre for Cultures and Environments of Health | TBC | TBC | <https://wellcome.exeter.ac.uk/> |
-| RILD (Research, Innovation, Learning and Development) | TBC | TBC | TBC |
 
 ### Digital Communities
 
@@ -103,4 +99,3 @@ Each institution section contains two tables:
 | Exeter RSE (Research Software Engineering) Group | TBC | TBC | TBC |
 | Technicians Commitment Group | TBC | TBC | <https://www.exeter.ac.uk/research/technicians-commitment/> |
 | Digital Humanities at Exeter | TBC | TBC | <https://humanities.exeter.ac.uk/english/research/digital/> |
-| Alan Turing Institute network (local contacts) | TBC | TBC | <https://www.turing.ac.uk/> |
